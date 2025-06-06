@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/VuDinhQuy_Azure_T2311E.props" />
+</Project>

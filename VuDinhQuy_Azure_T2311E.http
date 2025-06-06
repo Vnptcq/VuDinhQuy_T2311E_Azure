@@ -1,0 +1,6 @@
+@VuDinhQuy_Azure_T2311E_HostAddress = https://vudinhquy-awenafddd6fbfed2.southeastasia-01.azurewebsites.net
+
+GET {{VuDinhQuy_Azure_T2311E_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
